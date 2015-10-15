@@ -1,13 +1,13 @@
 Linux
-
+=====
 Install Docker
-
+--------------
 http://docs.docker.com/linux/step_one/
 
 OSX
-
+===
 Install Docker Toolbox
-
+----------------------
 https://www.docker.com/toolbox
 
 `docker-machine create`
